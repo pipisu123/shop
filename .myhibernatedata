@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Wed Nov 27 20:44:30 CST 2019
+sessionFactoryName=cn.hiber.SF.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=
+version=4.1
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=lib
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/test/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=false
